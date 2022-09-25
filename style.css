@@ -1,0 +1,24 @@
+a {
+    color: burlywood;
+    display: block;
+    font-family: "Bungee Spice", Calibri, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight:700;
+}
+
+.centering {
+    text-align: center;
+    line-height: 1.5;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Bungee Spice", Calibri, Tahoma, sans-serif;
+    font-size: 100px;
+    background-color:rgb(99, 148, 127);
+}
+
+body {
+    background-color: black;
+}
